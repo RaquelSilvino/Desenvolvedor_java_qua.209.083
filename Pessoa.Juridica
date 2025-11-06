@@ -1,0 +1,8 @@
+package com.herana.models
+
+public class PessoaJuridica extends Pessoa {
+    ///atributos
+    public String razaoSocial;
+    public String nomefantasia;
+    public String cnpj;
+    

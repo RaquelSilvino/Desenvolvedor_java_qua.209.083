@@ -1,0 +1,21 @@
+package.com.objeto.app
+public class.Pessoa{
+    // atributos
+  public String nome;
+  public String cpf;
+  public String email;
+  public String idade;
+  public String altura;
+
+  // metodo
+  public void exibirDados(){
+    System.out.printin("DADOS DO USUARIO:/n");
+    System.out.printin("Nome"+this.nome);
+    System.out.printin("Nome"+this.cpf);
+    System.out.printin("Nome"+this.email);
+    System.out.printin("Nome"+this.idade);
+    System.out.printin("Nome"+this.altura+"m);
+  }
+
+    
+
