@@ -1,0 +1,28 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   01_objeto parte_01/objeto_parte 02/.vscode/settings.json
+#	new file:   01_objeto parte_01/objeto_parte 02/README.md
+#	new file:   01_objeto parte_01/objeto_parte 02/bin/App.class
+#	new file:   01_objeto parte_01/objeto_parte 02/bin/com/heranca/models/Carro.class
+#	new file:   01_objeto parte_01/objeto_parte 02/bin/com/heranca/models/Moto.class
+#	new file:   01_objeto parte_01/objeto_parte 02/bin/com/heranca/models/veiculo.class
+#	new file:   01_objeto parte_01/objeto_parte 02/src/App.java
+#	new file:   01_objeto parte_01/objeto_parte 02/src/com/heranca/models/Moto.java
+#	new file:   01_objeto parte_01/objeto_parte 02/src/com/heranca/models/carro.java
+#	new file:   01_objeto parte_01/objeto_parte 02/src/com/heranca/models/veiculo.java
+#	new file:   05encapsulamento/.vscode/settings.json
+#	new file:   05encapsulamento/README.md
+#	new file:   05encapsulamento/bin/com/enacapsulamento/app/App.class
+#	new file:   05encapsulamento/bin/com/enacapsulamento/app/com.gui.app
+#	new file:   05encapsulamento/bin/com/encapsulamento/models/Pessoa.class
+#	new file:   05encapsulamento/src/com/enacapsulamento/app/App.java
+#	new file:   05encapsulamento/src/com/enacapsulamento/app/com.gui.app
+#	new file:   05encapsulamento/src/com/encapsulamento/models/Pessoa.java
+#
